@@ -1,0 +1,3 @@
+:HL["/purepaydocs/_next/static/chunks/0xo2zdn1m27mb.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"rwStoqh8_wMk06zPfwi3B","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
