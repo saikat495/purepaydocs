@@ -1,0 +1,400 @@
+# PurePay
+
+> Guides and reference for the PurePay app
+
+This document contains the full content of all documentation pages for AI consumption.
+
+---
+
+## Alpha
+
+**URL:** https://docs.example.com/docs/alpha
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Layer 1.5
+
+**URL:** https://docs.example.com/docs/architecture
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Business to Business
+
+**URL:** https://docs.example.com/docs/businesstobusiness
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Certificates
+
+**URL:** https://docs.example.com/docs/certificates
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Corporate Treasury
+
+**URL:** https://docs.example.com/docs/corporatetreasury
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Cross Border Payments
+
+**URL:** https://docs.example.com/docs/crossborder
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Decentralization
+
+**URL:** https://docs.example.com/docs/decentralization
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Getting Started
+
+**URL:** https://docs.example.com/docs/getting-started
+**Description:** Install PurePay and set up your profile
+
+## Requirements
+
+| Platform | Minimum version |
+| -------- | --------------- |
+| iOS      | TBD             |
+| Android  | TBD             |
+
+```mermaid
+flowchart LR
+  A[Install app] --> B[Create profile]
+  B --> C{Approved?}
+  C -- Yes --> D[Send payment]
+  C -- No --> E[Wait for approval]
+```
+
+## Set up the app
+
+  
+  
+  
+
+## Next steps
+
+Once your profile is approved, follow the [Quickstart](/docs/quickstart) to make your first payment.
+
+---
+
+## Getting Started
+
+**URL:** https://docs.example.com/docs/gettingstarted
+**Description:** Install PurePay and set up your profile
+
+## Requirements
+
+| Platform | Minimum version |
+| -------- | --------------- |
+| iOS      | TBD             |
+| Android  | TBD             |
+
+## Set up the app
+
+  
+  
+  
+
+## Next steps
+
+Once your profile is approved, follow the [Quickstart](/docs/quickstart) to make your first payment.
+
+---
+
+## Introduction
+
+**URL:** https://docs.example.com/docs
+**Description:** PurePay - Global Payment Network
+
+**PurePay** is a mobile app for sending and receiving payments directly between people.
+These docs explain how to set up the app, make payments, and manage your profile.
+
+  
+
+## What you can do with PurePay
+
+- Send and receive payments
+- Keep a verifiable history of every payment
+- Manage your profile and the details you share
+
+## Need help?
+
+If something in these docs is unclear or missing, contact the PurePay team.
+
+---
+
+## Inter-Bank Settlement
+
+**URL:** https://docs.example.com/docs/interbank
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Buying Coffee
+
+**URL:** https://docs.example.com/docs/merchant
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Peer to Peer
+
+**URL:** https://docs.example.com/docs/peertopeer
+**Description:** Pay anyone with a QR code.
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Privacy
+
+**URL:** https://docs.example.com/docs/privacy
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Proof of Graph
+
+**URL:** https://docs.example.com/docs/proofofgraph
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Quickstart
+
+**URL:** https://docs.example.com/docs/quickstart
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+```mermaid
+flowchart LR
+	A[INIT]:::state
+	B(PENDING):::state
+	C([ACTIVE]):::state
+	D([ACCEPTED]):::state
+    E([REJECTED]):::state
+    A <--> B
+    B -- Certifies a lot --> C
+    A --> C
+    C -->D
+    C-->E
+```
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Roles and Access
+
+**URL:** https://docs.example.com/docs/rolesandaccess
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+
+## Tokenized Deposits
+
+**URL:** https://docs.example.com/docs/tokenizeddeposits
+**Description:** Send your first payment with PurePay
+
+This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
+
+## Send a payment
+
+  
+  
+
+## Receive a payment
+
+Show your QR code to the person paying you, or share your profile with them.
+
+## Common questions
+
+---
+

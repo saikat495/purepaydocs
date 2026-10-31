@@ -1,0 +1,24 @@
+# PurePay
+
+> Guides and reference for the PurePay app
+
+## Documentation
+
+- [Alpha](https://docs.example.com/docs/alpha): Send your first payment with PurePay
+- [Layer 1.5](https://docs.example.com/docs/architecture): Send your first payment with PurePay
+- [Business to Business](https://docs.example.com/docs/businesstobusiness): Send your first payment with PurePay
+- [Certificates](https://docs.example.com/docs/certificates): Send your first payment with PurePay
+- [Corporate Treasury](https://docs.example.com/docs/corporatetreasury): Send your first payment with PurePay
+- [Cross Border Payments](https://docs.example.com/docs/crossborder): Send your first payment with PurePay
+- [Decentralization](https://docs.example.com/docs/decentralization): Send your first payment with PurePay
+- [Getting Started](https://docs.example.com/docs/getting-started): Install PurePay and set up your profile
+- [Getting Started](https://docs.example.com/docs/gettingstarted): Install PurePay and set up your profile
+- [Introduction](https://docs.example.com/docs): PurePay - Global Payment Network
+- [Inter-Bank Settlement](https://docs.example.com/docs/interbank): Send your first payment with PurePay
+- [Buying Coffee](https://docs.example.com/docs/merchant): Send your first payment with PurePay
+- [Peer to Peer](https://docs.example.com/docs/peertopeer): Pay anyone with a QR code.
+- [Privacy](https://docs.example.com/docs/privacy): Send your first payment with PurePay
+- [Proof of Graph](https://docs.example.com/docs/proofofgraph): Send your first payment with PurePay
+- [Quickstart](https://docs.example.com/docs/quickstart): Send your first payment with PurePay
+- [Roles and Access](https://docs.example.com/docs/rolesandaccess): Send your first payment with PurePay
+- [Tokenized Deposits](https://docs.example.com/docs/tokenizeddeposits): Send your first payment with PurePay
