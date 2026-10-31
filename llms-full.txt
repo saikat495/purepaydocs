@@ -148,38 +148,6 @@ Show your QR code to the person paying you, or share your profile with them.
 
 ## Getting Started
 
-**URL:** https://docs.example.com/docs/getting-started
-**Description:** Install PurePay and set up your profile
-
-## Requirements
-
-| Platform | Minimum version |
-| -------- | --------------- |
-| iOS      | TBD             |
-| Android  | TBD             |
-
-```mermaid
-flowchart LR
-  A[Install app] --> B[Create profile]
-  B --> C{Approved?}
-  C -- Yes --> D[Send payment]
-  C -- No --> E[Wait for approval]
-```
-
-## Set up the app
-
-  
-  
-  
-
-## Next steps
-
-Once your profile is approved, follow the [Quickstart](/docs/quickstart) to make your first payment.
-
----
-
-## Getting Started
-
 **URL:** https://docs.example.com/docs/gettingstarted
 **Description:** Install PurePay and set up your profile
 
@@ -307,7 +275,7 @@ Show your QR code to the person paying you, or share your profile with them.
 ## Proof of Graph
 
 **URL:** https://docs.example.com/docs/proofofgraph
-**Description:** Send your first payment with PurePay
+**Description:** Encrypted consensus algorithm
 
 This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
 
@@ -332,20 +300,6 @@ Show your QR code to the person paying you, or share your profile with them.
 This guide assumes you have finished [Getting Started](/docs/getting-started) and your profile is approved.
 
 ## Send a payment
-
-```mermaid
-flowchart LR
-	A[INIT]:::state
-	B(PENDING):::state
-	C([ACTIVE]):::state
-	D([ACCEPTED]):::state
-    E([REJECTED]):::state
-    A <--> B
-    B -- Certifies a lot --> C
-    A --> C
-    C -->D
-    C-->E
-```
 
   
   

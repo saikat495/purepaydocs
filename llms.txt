@@ -11,14 +11,13 @@
 - [Corporate Treasury](https://docs.example.com/docs/corporatetreasury): Send your first payment with PurePay
 - [Cross Border Payments](https://docs.example.com/docs/crossborder): Send your first payment with PurePay
 - [Decentralization](https://docs.example.com/docs/decentralization): Send your first payment with PurePay
-- [Getting Started](https://docs.example.com/docs/getting-started): Install PurePay and set up your profile
 - [Getting Started](https://docs.example.com/docs/gettingstarted): Install PurePay and set up your profile
 - [Introduction](https://docs.example.com/docs): PurePay - Global Payment Network
 - [Inter-Bank Settlement](https://docs.example.com/docs/interbank): Send your first payment with PurePay
 - [Buying Coffee](https://docs.example.com/docs/merchant): Send your first payment with PurePay
 - [Peer to Peer](https://docs.example.com/docs/peertopeer): Pay anyone with a QR code.
 - [Privacy](https://docs.example.com/docs/privacy): Send your first payment with PurePay
-- [Proof of Graph](https://docs.example.com/docs/proofofgraph): Send your first payment with PurePay
+- [Proof of Graph](https://docs.example.com/docs/proofofgraph): Encrypted consensus algorithm
 - [Quickstart](https://docs.example.com/docs/quickstart): Send your first payment with PurePay
 - [Roles and Access](https://docs.example.com/docs/rolesandaccess): Send your first payment with PurePay
 - [Tokenized Deposits](https://docs.example.com/docs/tokenizeddeposits): Send your first payment with PurePay
